@@ -1,0 +1,112 @@
+
+<html>
+<head>
+   
+    <title> Siddharth Singh portfolio </title>
+</head>
+<body bgcolor="#f1f1f1" text="#333">
+   
+    <table width="100%" bgcolor="#6200ea" cellpadding="20">
+        <tr>
+            <td align="center">
+                <h1 style="color: white; font-size: 3em ; "> Siddharth Singh </h1>
+                <p style="color: white; font-size: 1.2em;"> App developer  |  Web Developer  |  Graphic Designer</p>
+            </td>
+        </tr>
+    </table>
+   
+    <table width="100%" bgcolor="#03a9f4" cellpadding="10">
+        <tr>
+            <td align="center">
+                <a href="#about" style="color: white; font-weight: bold; margin-right: 20px;">About Me</a>
+                <a href="#skills" style="color: white; font-weight: bold; margin-right: 20px;">Skills</a>
+                <a href="#hobbies" style="color: white; font-weight: bold; margin-right: 20px;">Hobbies</a>
+                <a href="#contact" style="color: white; font-weight: bold;">Contact</a>
+            </td>
+        </tr>
+    </table>
+   
+    <table width="100%" bgcolor="#ffffff" cellpadding="40">
+        <tr>
+            <td align="center">
+                <h2 style="color: #6200ea;">About Me</h2>
+                <p style="font-size: 1.2em; width: 80%; margin: 0 auto;">Hi, I'm Siddharth singh . I'm a versatile creative professional with skills in graphic design, web development, and mobile app development. I love combining art and technology to create engaging user experiences. I'm always excited to take on new challenges and keep learning!</p>
+            </td>
+        </tr>
+    </table>
+   
+    <table width="100%" bgcolor="#ffeb3b" cellpadding="40">
+        <tr>
+            <td align="center">
+                <h2 style="color: #6200ea;">Skills</h2>
+                <table cellpadding="20">
+                    <tr>
+                       
+                        <td bgcolor="#ffecb3" align="center" width="200px">
+                            <h3 style="color: #6200ea;">Web Developer</h3>
+                            <p>HTML, CSS, JavaScript, React</p>
+                        </td>
+                        <td bgcolor="#ffecb3" align="center" width="200px">
+                            <h3 style="color: #6200ea;">App Developer</h3>
+                            <p> CSS, Swift</p>
+                        </td>
+                        <td bgcolor="#ffecb3" align="center" width="200px">
+                            <h3 style="color: #6200ea;">Graphic Designer</h3>
+                            <p>Adobe Photoshop, Illustrator, Canva </p>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+   
+    <table width="100%" bgcolor="#e1f5fe" cellpadding="40">
+        <tr>
+            <td align="center">
+                <h2 style="color: #6200ea;">Hobbies</h2>
+                <p style="font-size: 1.2em;">When I'm not coding or designing , I love to explore new hobbies and activities that inspire me. Here are some of my favorite activities :</p>
+                <table cellpadding="20">
+                    <tr>
+                        <td bgcolor="#ffffff" align="center" width="200px">
+                            <h3 style="color: #6200ea;">Music</h3>
+                            <p>Listening to music is a great way to unwind and stay inspired.</p>
+                        </td>
+                        <td bgcolor="#ffffff" align="center" width="200px">
+                            <h3 style="color: #6200ea;">Travelling</h3>
+                            <p>I love exploring new places and experiencing different cultures.</p>
+                        </td>
+                       
+                   
+                   
+                        <td bgcolor="#ffffff" align="center" width="200px">
+                            <h3 style="color: #6200ea;">Video Games</h3>
+                            <p>Gaming helps me relax and think creatively.</p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+   
+    <table width="100%" bgcolor="#ffecb3" cellpadding="40">
+        <tr>
+            <td align="center">
+                <h2 style="color: #6200ea;">Contact Me</h2>
+                <p style="font-size: 1.2em;">Feel free to reach out to me if you'd like to collaborate on projects or just chat about design, development, or technology!</p>
+                <a href="mailto:yourname@example.com" style="background-color: #03a9f4; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Email Me</a>
+            </td>
+        </tr>
+    </table>
+    <!-- Footer Section -->
+    <table width="100%" bgcolor="#6200ea" cellpadding="20">
+        <tr>
+            <td align="center">
+                <p style="color: white; font-size: 1em;">&copy; 2024 Your Name. All Rights Reserved.</p>
+                <p>
+                    <a href="https://github.com/yourgithub" style="color: white; text-decoration: none; font-weight: bold;">GitHub</a> |
+                    <a href="https://www.linkedin.com/in/yourlinkedin" style="color: white; text-decoration: none; font-weight: bold;">LinkedIn</a>
+                </p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
